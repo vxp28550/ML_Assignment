@@ -1,7 +1,8 @@
 
-Name:Ponugoti Vamshi
+Name:Ponugoti Vamshi,
 Student ID: 700742855
 
+Video Link: https://drive.google.com/file/d/1Edinl9Xg7uTHFloYDHYM3Tw27ywGG__s/view?usp=sharing
 
 Q1.
 A)Given a list called ages and I sorted the list and found max and min of the given list.
